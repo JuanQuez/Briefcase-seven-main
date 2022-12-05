@@ -94,7 +94,7 @@ nav{
   
 }
 
-/* Fin barra de navegacion...*/
+
 
 .header-information{
     display: flex;
@@ -115,7 +115,7 @@ nav{
 
 .header-information h1{
     font-size: revert;
-    color: var(--black)
+    color: rgb(46, 44, 44);
 }
 
 .header-information h2{
@@ -180,7 +180,7 @@ nav{
 }
 
 .ability-circle{
-    background-color: var(--cafe);
+    background-color: #0081CF;
     width: 70px;
     height: 70px;
     border-radius: 50%;
